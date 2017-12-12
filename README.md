@@ -1,4 +1,2 @@
 # hello-world
-Just another breakthrough
-
-'nuff said.
+Just another breakthrough. That's it.
